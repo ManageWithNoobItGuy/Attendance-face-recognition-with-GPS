@@ -29,13 +29,6 @@ Backend: Google Apps Script (.gs)
 
 Database: Google Sheets
 
-📂 โครงสร้างไฟล์
-Plaintext
-├── code.gs           # โค้ด Backend หลัก (จัดการ doGet, API, และ Google Sheets)
-├── menu.html         # หน้าเมนูหลัก (สำหรับเลือกฟังก์ชัน)
-├── register.html     # หน้าลงทะเบียนพนักงาน (บันทึกใบหน้า)
-├── scan.html         # หน้าสแกนเข้างาน (ตรวจสอบใบหน้า + GPS)
-└── config.html       # หน้าตั้งค่าพิกัด GPS (สำหรับ Admin)
 🚀 วิธีติดตั้งและใช้งาน (Installation)
 เนื่องจากโปรเจกต์นี้รันบน Google Apps Script คุณไม่จำเป็นต้องมีเซิร์ฟเวอร์ เพียงทำตามขั้นตอนนี้:
 
